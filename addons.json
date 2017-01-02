@@ -68,8 +68,8 @@
 		{
 			"repo" : "writ312/myTosAddons"
 		},
-+		{
-+			"repo" : "zak1ck/ToSAddons"
+		{
+			"repo" : "zak1ck/ToSAddons"
  		}
 	]
 }
