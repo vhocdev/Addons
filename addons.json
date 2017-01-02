@@ -67,6 +67,9 @@
 		},
 		{
 			"repo" : "writ312/myTosAddons"
-		}
+		},
++		{
++			"repo" : "zak1ck/ToSAddons"
+ 		}
 	]
 }
