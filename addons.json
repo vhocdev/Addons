@@ -76,6 +76,9 @@
  		},
 		{
 			"repo" : "mythzeal/tos_addon"
+		},
+		{
+			"repo" : "levelnineteen/tos_speedrun"
 		}
 	]
 }
