@@ -73,6 +73,9 @@
  		},
 		{
 			"repo" : "chicori/TOS-Addon"
- 		}
+ 		},
+		{
+			"repo" : "mythzeal/tos_addon"
+		}
 	]
 }
