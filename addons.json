@@ -79,6 +79,9 @@
 		},
 		{
 			"repo" : "levelnineteen/tos_speedrun"
-		}
+		},
+		{ 
+			"repo" : "m1yur1/ToS_Addon_Binary" 
+		} 
 	]
 }
