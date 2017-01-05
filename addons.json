@@ -82,6 +82,8 @@
 		},
 		{ 
 			"repo" : "m1yur1/ToS_Addon_Binary" 
-		} 
+		},{
+			"repo" : "kuronekotei/ToSAddon"
+		}
 	]
 }
