@@ -13,32 +13,40 @@
 	],
 	"sources" : [
 		{
-			"repo" : "torahamu/TOSAddon"
+			"repo" : "torahamu/TOSAddon",
+			"twitter" : "torahamu_39"
 		},
 		{
-			"repo" : "Monogusa1244/MonogusaAddonStore"
+			"repo" : "Monogusa1244/MonogusaAddonStore",
+			"twitter" : "no1244"
 		},
 		{
 			"repo" : "writ312/myTosAddons",
 			"twitter" : "writ312"
 		},
 		{
-			"repo" : "zak1ck/ToSAddons"
+			"repo" : "zak1ck/ToSAddons",
+			"twitter" : "kajikumoreau"
  		},
 		{
-			"repo" : "chicori/TOS-Addon"
+			"repo" : "chicori/TOS-Addon",
+			"twitter" : "chico_tos"
  		},
 		{
-			"repo" : "mythzeal/tos_addon"
+			"repo" : "mythzeal/tos_addon",
+			"twitter" : "mythzeal"
 		},
 		{
-			"repo" : "levelnineteen/tos_speedrun"
+			"repo" : "levelnineteen/tos_speedrun",
+			"twitter" : "levelnineteen"
 		},
 		{ 
-			"repo" : "m1yur1/ToS_Addon_Binary" 
+			"repo" : "m1yur1/ToS_Addon_Binary" ,
+			"twitter" : "m1yur1"
 		},
 		{
-			"repo" : "kuronekotei/ToSAddon"
+			"repo" : "kuronekotei/ToSAddon",
+			"twitter" : "tp_kuronekotei"
 		}
 	]
 }
