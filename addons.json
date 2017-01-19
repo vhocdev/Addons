@@ -40,13 +40,17 @@
 			"repo" : "levelnineteen/tos_speedrun",
 			"twitter" : "levelnineteen"
 		},
-		{ 
+		{
 			"repo" : "m1yur1/ToS_Addon_Binary" ,
 			"twitter" : "m1yur1"
 		},
 		{
 			"repo" : "kuronekotei/ToSAddon",
 			"twitter" : "tp_kuronekotei"
+		},
+		{
+			"repo" : "kurua/tosAddons",
+			"twitter" : "kurua0106"
 		}
 	]
 }
