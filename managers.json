@@ -55,9 +55,9 @@
 		{
 			"repo" : "Toukibi/ToSAddon"
 		},
-+		{
-+			"repo" : "prusence/tos_addon",
-+			"twitter" : "prusence"
+		{
+			"repo" : "prusence/tos_addon",
+			"twitter" : "prusence"
  		}
 	]
 }
