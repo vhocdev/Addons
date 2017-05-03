@@ -58,6 +58,15 @@
 		},
 		{
 			"repo" : "librarianrabbit/tos-addons"
+		},
+		{
+			"repo" : "fandolls/Addons"
+		},
+		{
+			"repo" : "spereira2017/ToS-Addons"
+		},
+		{
+			"repo" : "CooLowbro/Addons-TOS"
 		}
 	]
 }
