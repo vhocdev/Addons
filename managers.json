@@ -75,6 +75,10 @@
 		{
 			"repo" : "R-ToS/ToS-Addon",
 			"twitter" : "r_gamejp"
+		},
+		{
+			"repo" : "suzumeiko/jToSAddon",
+			"twitter" : "suzumeiko"
 		}
 	]
 }
