@@ -79,6 +79,10 @@
 		{
 			"repo" : "suzumeiko/jToSAddon",
 			"twitter" : "suzumeiko"
+		},
+		{
+			"repo" : "weizlogy/tos",
+			"twitter" : "twihamatter"
 		}
 	]
 }
