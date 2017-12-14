@@ -9,6 +9,9 @@
 		},
 		{
 			"url" : "https://raw.githubusercontent.com/Tree-of-Savior-Addon-Community/AC-Util/master/src/cwapi.lua"
+		},
+		{
+			"url" : "https://raw.githubusercontent.com/Tree-of-Savior-Addon-Community/AC-Util/master/src/xmlSimple.lua"
 		}
 	],
 	"sources" : [
