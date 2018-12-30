@@ -1,5 +1,5 @@
 {
-	"version":"0.3.0",
+	"version":"0.3.1",
 	"dependencies" : [
 		{
 			"url" : "https://raw.githubusercontent.com/Tree-of-Savior-Addon-Community/AC-Util/master/src/acutil.lua"
@@ -85,7 +85,7 @@
 		},
 		{
 			"repo" : "weizlogy/tos",
-			"twitter" : "twihamatter"
+			"twitter" : "twilightalpaca"
 		},
 		{
 			"repo" : "DeaR/tos-addon",
