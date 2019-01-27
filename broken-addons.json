@@ -1,6 +1,6 @@
 {
   "tosversion":"20180730",
   "addons": [
-    { "file": "Advanced Skill Tooltips", "version": "v1.0.1", author: "Gardios" }
+    { "file": "Advanced Skill Tooltips", "version": "v1.0.1", "author": "Gardios" }
   ]
 }
