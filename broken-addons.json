@@ -1,6 +1,7 @@
 {
   "tosversion":"20180730",
   "addons": [
-    { "file": "advancedskilltooltips", "version": "1.0.1", "author": "Gardios" }
+    { "file": "advancedskilltooltips", "version": "1.0.1", "author": "Gardios" },
+    { "file": "unfreeze", "version": "1.0.6", "author": "librarianrabbit" }
   ]
 }
