@@ -110,6 +110,9 @@
 		},
 		{
 			"repo" : "Crevox/TOSAddon"
+    },
+    {
+			"repo" : "NoctisCepheus/ToS-Addons-Cepheus"
 		}
 	]
 }
