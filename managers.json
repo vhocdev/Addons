@@ -107,6 +107,9 @@
 		{
 			"repo" : "tokageel/tos",
 			"twitter" : "leopa_tos"
+		},
+		{
+			"repo" : "Crevox/TOSAddon"
 		}
 	]
 }
