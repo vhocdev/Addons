@@ -109,6 +109,9 @@
 			"twitter" : "leopa_tos"
 		},
 		{
+			"repo" : "Crevox/TOSAddon"
+    },
+    {
 			"repo" : "NoctisCepheus/ToS-Addons-Cepheus"
 		}
 	]
