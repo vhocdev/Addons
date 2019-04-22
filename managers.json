@@ -113,6 +113,9 @@
     },
     {
 			"repo" : "NoctisCepheus/ToS-Addons-Cepheus"
+		},
+		{
+			"repo" : "acc97862/TOS-Addons"
 		}
 	]
 }
