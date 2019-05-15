@@ -116,6 +116,9 @@
 		},
 		{
 			"repo" : "acc97862/TOS-Addons"
+		},
+		{
+			"repo" : "ebisuke/TosAddons"
 		}
 	]
 }
