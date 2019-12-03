@@ -108,7 +108,8 @@
 			"repo" : "acc97862/TOS-Addons"
 		},
 		{
-			"repo" : "ebisuke/TosAddons"
+			"repo" : "ebisuke/TosAddons",
+                        "twitter" : "ebisuke_tos"
 		}
 	]
 }
