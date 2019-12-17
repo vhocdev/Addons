@@ -82,6 +82,9 @@
 		},
 		{
 			"repo" : "NoctisCepheus/ToS-Addons-Cepheus"
+		},
+		{
+			"repo" : "blead/tos-addons"
 		}
 	]
 }
