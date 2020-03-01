@@ -82,6 +82,10 @@
 		},
 		{
 			"repo" : "blead/tos-addons"
+		},
+		{
+			"repo" : "flpcarv/TOS-Addons",
+			"twitter" : "flp_carv"
 		}
 	]
 }
