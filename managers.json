@@ -110,10 +110,6 @@
 		{
 			"repo" : "ebisuke/TosAddons",
                         "twitter" : "ebisuke_tos"
-		},
-		{
-			"repo" : "flpcarv/TOS-Addons",
-                        "twitter" : "flp_carv"
 		}
 	]
 }
