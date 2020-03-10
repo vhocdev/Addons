@@ -113,6 +113,9 @@
 		{
 			"repo" : "ebisuke/TosAddons",
                         "twitter" : "ebisuke_tos"
+		},
+		{
+			"repo" : "eunsoogi/tos-addons"
 		}
 	]
 }
