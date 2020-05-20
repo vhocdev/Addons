@@ -116,6 +116,10 @@
 		},
 		{
 			"repo" : "eunsoogi/tos-addons"
+		},
+		{
+			"repo" : "schale-tos/TOSAddon",
+			"twitter" : "schale_tos"
 		}
 	]
 }
