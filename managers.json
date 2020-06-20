@@ -89,6 +89,9 @@
 		{
 			"repo" : "flpcarv/TOS-Addons",
 			"twitter" : "flp_carv"
+		},
+		{
+			"repo" : "Tor-Heyerdal/UnshuntThatBar"
 		}
 	]
 }
