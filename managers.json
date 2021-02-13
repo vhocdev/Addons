@@ -120,6 +120,9 @@
 		{
 			"repo" : "schale-tos/TOSAddon",
 			"twitter" : "schale_tos"
+		},
+		{
+			"repo" : "BlackMages/ToS-Addons"
 		}
 	]
 }
