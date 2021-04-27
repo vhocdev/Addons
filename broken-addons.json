@@ -4,6 +4,8 @@
     { "file": "advancedskilltooltips", "version": "1.0.1", "author": "Gardios" },
     { "file": "unfreeze", "version": "1.0.6", "author": "librarianrabbit" },
     { "file": "marketnames", "version": "1.1.0", "author": "Excrulon" },
+    { "file": "collectionitemsearch", "version": "1.0.2", "author": "acc97862" },
+    { "file": "collectionhelper", "version": "1.1.0", "author": "ewewukek" },
     { "file": "dpscount", "version": "0.9.0", "author": "Nasiko" },
     { "file": "dpsmeter", "version": "2.1.1", "author": "weizlogy" }
   ]
