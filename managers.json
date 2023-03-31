@@ -127,5 +127,8 @@
 		{
 			"repo" : "meldavy/tos-addons"
 		}
+		{
+			"repo" : "ajinorisan/TOSAddon-public"
+		}
 	]
 }
