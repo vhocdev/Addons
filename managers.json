@@ -129,6 +129,9 @@
 		},
 		{
 			"repo" : "ajinorisan/TOSAddon-public"
+		},
+		{
+			"repo" : "gadenrhoss/tos-addons"
 		}
 	]
 }
