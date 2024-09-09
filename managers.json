@@ -135,6 +135,9 @@
 		},
 		{
 			"repo" : "gadenrhoss/tos-addons"
+		},
+		{
+			"repo" : "rgeurgas/TOSAddon"
 		}
 	]
 }
